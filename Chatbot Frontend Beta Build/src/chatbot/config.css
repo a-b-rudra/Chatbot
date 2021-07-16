@@ -1,0 +1,32 @@
+.react-chatbot-kit-chat-message-container {
+    overflow-x:hidden;
+    overflow-y: scroll;
+    
+}
+
+.react-chatbot-kit-chat-bot-message {
+    background-color: #21AA47;
+    color: #ffffff;
+    left: 3px;
+    position:relative;
+    width: 155px;
+    align-self: flex-end;
+}
+
+.react-chatbot-kit-chat-bot-message-arrow {
+    border-right: 8px solid #21AA47;
+    
+}
+
+.react-chatbot-kit-user-avatar-container {
+    width: 0%;
+}
+
+.react-chatbot-kit-user-avatar {
+    width: 0%;
+}
+
+.react-chatbot-kit-user-chat-message {
+    left: 0;
+    padding: 10px;
+}
